@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="..Parrot2.png">
+	<!-- Created with Adobe Animate version 15.2.1.95 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="0000.png" x="0" y="0" width="240" height="226" pivotX="0" pivotY="0"/>
+	<SubTexture name="0001.png" x="240" y="0" width="240" height="226" pivotX="0" pivotY="0"/>
+	<SubTexture name="0002.png" x="480" y="0" width="240" height="226" pivotX="0" pivotY="0"/>
+	<SubTexture name="0003.png" x="720" y="0" width="240" height="226" pivotX="0" pivotY="0"/>
+	<SubTexture name="0004.png" x="0" y="226" width="240" height="226" pivotX="0" pivotY="0"/>
+	<SubTexture name="0005.png" x="240" y="226" width="240" height="226" pivotX="0" pivotY="0"/>
+	<SubTexture name="0006.png" x="480" y="226" width="240" height="226" pivotX="0" pivotY="0"/>
+	<SubTexture name="0007.png" x="720" y="226" width="240" height="226" pivotX="0" pivotY="0"/>
+	<SubTexture name="0008.png" x="0" y="452" width="240" height="226" pivotX="0" pivotY="0"/>
+	<SubTexture name="0009.png" x="240" y="452" width="240" height="226" pivotX="0" pivotY="0"/>
+	<SubTexture name="0010.png" x="480" y="452" width="240" height="226" pivotX="0" pivotY="0"/>
+	<SubTexture name="0011.png" x="720" y="452" width="240" height="226" pivotX="0" pivotY="0"/>
+	<SubTexture name="0012.png" x="0" y="678" width="240" height="226" pivotX="0" pivotY="0"/>
+	<SubTexture name="0013.png" x="240" y="678" width="240" height="226" pivotX="0" pivotY="0"/>
+	<SubTexture name="0014.png" x="480" y="678" width="240" height="226" pivotX="0" pivotY="0"/>
+	<SubTexture name="0015.png" x="720" y="678" width="240" height="226" pivotX="0" pivotY="0"/>
+	<SubTexture name="0016.png" x="0" y="904" width="240" height="226" pivotX="0" pivotY="0"/>
+	<SubTexture name="0017.png" x="240" y="904" width="240" height="226" pivotX="0" pivotY="0"/>
+	<SubTexture name="0018.png" x="480" y="904" width="240" height="226" pivotX="0" pivotY="0"/>
+	<SubTexture name="0019.png" x="720" y="904" width="240" height="226" pivotX="0" pivotY="0"/>
+	<SubTexture name="0020.png" x="0" y="1130" width="240" height="226" pivotX="0" pivotY="0"/>
+	<SubTexture name="0021.png" x="240" y="1130" width="240" height="226" pivotX="0" pivotY="0"/>
+</TextureAtlas>

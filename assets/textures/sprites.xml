@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="sprites.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="arrow"	x="0"	y="952"	width="162"	height="57" frameX="-0" frameY="-0" frameWidth="162" frameHeight="58"/>
+	<SubTexture name="bub_blue"	x="208"	y="699"	width="44"	height="44" frameX="-0" frameY="-0" frameWidth="44" frameHeight="44"/>
+	<SubTexture name="bub_green"	x="208"	y="654"	width="45"	height="44" frameX="-0" frameY="-0" frameWidth="45" frameHeight="44"/>
+	<SubTexture name="bub_orange"	x="208"	y="744"	width="44"	height="44" frameX="-0" frameY="-0" frameWidth="44" frameHeight="44"/>
+	<SubTexture name="bub_red"	x="207"	y="903"	width="45"	height="44" frameX="-0" frameY="-0" frameWidth="45" frameHeight="44"/>
+	<SubTexture name="button_blue"	x="163"	y="952"	width="144"	height="68" frameX="-0" frameY="-0" frameWidth="144" frameHeight="68"/>
+	<SubTexture name="button_green"	x="207"	y="843"	width="126"	height="59" frameX="-0" frameY="-0" frameWidth="126" frameHeight="59"/>
+	<SubTexture name="button_purple"	x="0"	y="843"	width="206"	height="108" frameX="-0" frameY="-0" frameWidth="206" frameHeight="108"/>
+	<SubTexture name="gameEndPopup"	x="0"	y="0"	width="597"	height="653" frameX="-0" frameY="-0" frameWidth="597" frameHeight="653"/>
+	<SubTexture name="parrot_static"	x="0"	y="654"	width="207"	height="188" frameX="-0" frameY="-0" frameWidth="207" frameHeight="188"/>
+</TextureAtlas>
